@@ -1,8 +1,8 @@
 /***********************************************************************************************************************
 
-        author : Adil , el guerouj hirchi
+        author : Adil , el guerouj 
         date : 22 sept 2020
-        profesora : Aurora Ramirez quesada
+        profesora : Aurora Ramirez 
         asignatura : ingenieria de software 
 ************************************************************************************************************************/
 
