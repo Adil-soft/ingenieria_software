@@ -1,9 +1,9 @@
 /***********************************************************************************************************************
-         hello world
-        author : Adil, hirchi
+         
+        author : Adil
         date : 22 sept 2020
         profesora : Aurora Ramirez 
-        asignatura : ingenieria de software 
+        asignatura : ingenieria de informatica rama software
 ************************************************************************************************************************/
 
 
