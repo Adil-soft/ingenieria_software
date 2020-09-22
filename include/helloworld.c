@@ -1,9 +1,9 @@
 /***********************************************************************************************************************
 
-        author : Adil , Hirchi el guerouj...changin name to commit 
+        author : Adil Hirchi 
         date : 22 sept 2020
         profesora : Aurora Ramirez quesada
-        asignatura : ingenieria de software 
+        asignatura : ingenieria de informatica rama software
 ************************************************************************************************************************/
 
 
